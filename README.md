@@ -7,7 +7,7 @@ Criar um app que permita adicionar ingredientes e exiba na tela a lista dos ingr
 Utilizar React-Navigation e adicionar os items na lista através de uma função em um botão no headerRight.
 
 
-<h3>STATUS</h3>: Resolvido
+<h3>Status</h3>: Resolvido
 
 
 
