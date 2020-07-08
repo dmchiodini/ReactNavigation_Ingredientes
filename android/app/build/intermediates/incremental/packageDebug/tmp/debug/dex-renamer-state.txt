@@ -1,0 +1,4 @@
+#Tue Jul 07 15:22:12 BRT 2020
+base.0=C\:\\b7web\\ingredientes_ex\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
